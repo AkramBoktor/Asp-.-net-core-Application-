@@ -1,0 +1,13 @@
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\bin\Debug\netcoreapp3.1\LinQ Example 4.exe
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\bin\Debug\netcoreapp3.1\LinQ Example 4.deps.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\bin\Debug\netcoreapp3.1\LinQ Example 4.runtimeconfig.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\bin\Debug\netcoreapp3.1\LinQ Example 4.runtimeconfig.dev.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\bin\Debug\netcoreapp3.1\LinQ Example 4.dll
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\bin\Debug\netcoreapp3.1\LinQ Example 4.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.AssemblyInfoInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.AssemblyInfo.cs
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.dll
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 4\LinQ Example 4\LinQ Example 4\obj\Debug\netcoreapp3.1\LinQ Example 4.genruntimeconfig.cache
